@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b1556556135f4c8383ad5d0a1d12775a/artifacts
+end_time: 1716862049047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1556556135f4c8383ad5d0a1d12775a
+run_name: thundering-ray-878
+run_uuid: b1556556135f4c8383ad5d0a1d12775a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716862040158
+status: 3
+tags: []
+user_id: renan

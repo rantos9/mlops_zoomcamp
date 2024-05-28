@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a4e567796652492aa29997558df5ae05/artifacts
+end_time: 1716862399830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4e567796652492aa29997558df5ae05
+run_name: masked-vole-548
+run_uuid: a4e567796652492aa29997558df5ae05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716862391236
+status: 3
+tags: []
+user_id: renan

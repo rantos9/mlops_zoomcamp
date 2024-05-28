@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/25a80255a81b4db3859c7eef7659a1af/artifacts
+end_time: 1716862445517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25a80255a81b4db3859c7eef7659a1af
+run_name: orderly-whale-528
+run_uuid: 25a80255a81b4db3859c7eef7659a1af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716862436628
+status: 3
+tags: []
+user_id: renan
